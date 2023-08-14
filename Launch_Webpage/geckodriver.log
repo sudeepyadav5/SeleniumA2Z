@@ -1,0 +1,28 @@
+1691596232734	geckodriver	INFO	Listening on 127.0.0.1:55398
+1691596235750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\3Embed\\AppData\\Local\\Temp\\rust_mozprofilead8xgg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691596236519	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691596236528	Marionette	INFO	Listening on port 55409
+Read port: 55409
+WebDriver BiDi listening on ws://127.0.0.1:55399
+1691596236782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55399/devtools/browser/ef1d5467-0a6a-4645-bb17-b4e31fce1b4e
+1691596246658	Marionette	INFO	Stopped listening on port 55409
+Dynamically enable window occlusion 1
+1691596340165	geckodriver	INFO	Listening on 127.0.0.1:55467
+1691596343216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\3Embed\\AppData\\Local\\Temp\\rust_mozprofilem75Pcj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691596343531	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691596343536	Marionette	INFO	Listening on port 55475
+Read port: 55475
+WebDriver BiDi listening on ws://127.0.0.1:55468
+1691596343731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55468/devtools/browser/ba9bb7d7-c1c1-4c3d-ba38-07218108506e
+JavaScript error: http://dummypoint.com/asset/js/page/index-0.js, line 5: ReferenceError: Chart is not defined
+1691596366074	Marionette	INFO	Stopped listening on port 55475
+Dynamically enable window occlusion 1
+[Parent 12356, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787

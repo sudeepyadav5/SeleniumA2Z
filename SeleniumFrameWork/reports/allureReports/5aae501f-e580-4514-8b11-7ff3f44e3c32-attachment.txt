@@ -1,0 +1,24 @@
+INFO     WebDriverClass:DriverClass.py:11 Chrome Driver is Initialising
+INFO     BaseClass:BasePage.py:22 Web Page Launch with http://www.dummypoint.com/seleniumtemplate.html
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value Form using locator type link text
+INFO     BaseClass:BasePage.py:88 Click On Web Element with locator value Form using locator type link
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value reused_form using locator type id
+INFO     BaseClass:BasePage.py:130  Web Element is Displayed web page with locator value reused_form using locator type id
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value name using locator type id
+INFO     BaseClass:BasePage.py:100 Send the text Sudeep in Web Element with locator value name using locator type id
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value email using locator type id
+INFO     BaseClass:BasePage.py:100 Send the text Sudeep@appscrip.co in Web Element with locator value email using locator type id
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value //input[@value='male'] using locator type xpath
+INFO     BaseClass:BasePage.py:88 Click On Web Element with locator value //input[@value='male'] using locator type xpath
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value tech using locator type id
+INFO     BaseClass:BasePage.py:100 Send the text SDET in Web Element with locator value tech using locator type id
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value message using locator type id
+INFO     BaseClass:BasePage.py:100 Send the text Hello I am Sudeep, and SDET in Web Element with locator value message using locator type id
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value captcha_image using locator type id
+INFO     BaseClass:BasePage.py:115 Got the text SGH456 in Web Element with locator value captcha_image using locator type id
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value captcha using locator type id
+INFO     BaseClass:BasePage.py:100 Send the text SGH456 in Web Element with locator value captcha using locator type id
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value //button[@id='btnContactUs'] using locator type xpath
+INFO     BaseClass:BasePage.py:145 Scrolled to WebElement with locator value //button[@id='btnContactUs'] using locator type xpath
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value //button[@id='btnContactUs'] using locator type xpath
+INFO     BaseClass:BasePage.py:88 Click On Web Element with locator value //button[@id='btnContactUs'] using locator type xpath

@@ -1,0 +1,8 @@
+INFO     WebDriverClass:DriverClass.py:11 Chrome Driver is Initialising
+INFO     BaseClass:BasePage.py:22 Web Page Launch with http://www.dummypoint.com/seleniumtemplate.html
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value Locators using locator type link text
+INFO     BaseClass:BasePage.py:88 Click On Web Element with locator value Locators using locator type link
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value user_input using locator type id
+INFO     BaseClass:BasePage.py:100 Send the text Sudeep Yadav in Web Element with locator value user_input using locator type id
+INFO     BaseClass:BasePage.py:74 Web Element found with locator value submitbutton using locator type id
+INFO     BaseClass:BasePage.py:88 Click On Web Element with locator value submitbutton using locator type id
